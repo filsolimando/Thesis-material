@@ -1,1 +1,1 @@
-# material-thesis
+# thesis material
